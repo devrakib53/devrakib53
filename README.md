@@ -1,4 +1,4 @@
-<img="https://media.licdn.com/dms/image/v2/D5616AQGyWpuXf49FXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726075050889?e=1732147200&v=beta&t=8p9vJ9q9u4LP77X7CRDyGMMSpYpJfyx1KyqJgvit5Kw">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGyWpuXf49FXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726075050889?e=1732147200&v=beta&t=8p9vJ9q9u4LP77X7CRDyGMMSpYpJfyx1KyqJgvit5Kw">
 <h1 align="center">Hi 👋, I'm Abdulla Al Rakib</h1>
 <h2 align="center">I’m an enthusiastic Web Designer, Developer, and WordPress Expert.</h2>
 
